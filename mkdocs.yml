@@ -1,5 +1,5 @@
 site_name: Kinetic Docs
-site_url: https://lindsay-ironhall.github.io/kinetic-docs/
+site_url: https://docs.kinetic.market/
 docs_dir: _docs
 theme:
   name: material
