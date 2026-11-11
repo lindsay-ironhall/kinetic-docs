@@ -4,7 +4,7 @@ Welcome to Kinetic, a lending protocol that prioritizes giving access to new and
 
 Kinetic makes lending and borrowing digital assets simple and secure. We enable users to unlock the value of non-native assets within a decentralized, trustless framework.
 
-Kinetic integrates native assets as well as bridged assets to enhance cross-chain liquidity and broaden market access. With a growing list of supported tokens across the Flare and Soroban ecosystems.
+Kinetic integrates native assets as well as bridged assets to enhance cross-chain liquidity and broaden market access. With a growing list of supported tokens across the Flare ecosystem.
 
 Kinetic is proud to work alongside trusted partners such as the Flare network, Hypernative, Sentora, and more. These collaborations provide the secure infrastructure and operational reliability needed to keep Kinetic running seamlessly.
 
