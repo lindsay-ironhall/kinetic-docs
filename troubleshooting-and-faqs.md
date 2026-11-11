@@ -17,10 +17,14 @@ Kinetic is an on chain borrow lend protocol. Supplying assets into kinetic suppl
 
 <summary>How do I supply assets to the lending pool?</summary>
 
-To supply assets into Kinetic:\
-Connect your wallet\
-Select an asset from the Supply tab drop down in the market you wish to supply into\
-Approve the asset in your wallet\
+To supply assets into Kinetic:
+\
+Connect your wallet
+\
+Select an asset from the Supply tab drop down in the market you wish to supply into
+\
+Approve the asset in your wallet
+\
 Click Supply
 
 </details>
@@ -29,9 +33,12 @@ Click Supply
 
 <summary>Can I borrow assets on Kinetic?</summary>
 
-Yes, once you have supplied an asset into the supply market, you can choose to collateralize your supply, enabling you to borrow. To borrow assets from Kinetic:\
-Select the asset you wish to borrow from the drop down menu in the Borrow tab\
-Approve the action in your wallet\
+Yes, once you have supplied an asset into the supply market, you can choose to collateralize your supply, enabling you to borrow. To borrow assets from Kinetic:
+\
+Select the asset you wish to borrow from the drop down menu in the Borrow tab
+\
+Approve the action in your wallet
+\
 Click Borrow
 
 </details>
@@ -40,9 +47,12 @@ Click Borrow
 
 <summary>What are the withdrawal procedures for supplied assets?</summary>
 
-To withdraw supplied assets:\
-Go to your dashboard\
-Select the asset that you wish to withdraw\
+To withdraw supplied assets:
+\
+Go to your dashboard
+\
+Select the asset that you wish to withdraw
+\
 Click Withdraw
 
 If you have borrowed assets against the supply, the withdrawal may require maintaining collateral.
@@ -53,7 +63,7 @@ If you have borrowed assets against the supply, the withdrawal may require maint
 
 <summary>What are the risks associated with lending and borrowing on Kinetic?</summary>
 
-Risks include smart contract risk, market price fluctuations and borrower defaults. Bridging and oracles can also introduce risks. Kinetic uses security partners like Hypernative and Shapeshifter and multiple audit partners to help mitigate these risks.
+Risks include smart contract risk, market price fluctuations and borrower defaults. Bridging and oracles can also introduce risks. Kinetic uses security partners like Hypernative and multiple audit partners to help mitigate these risks.
 
 </details>
 
@@ -67,17 +77,9 @@ Monitor your loan health factor and stay informed about asset conditions and mar
 
 <details>
 
-<summary>How can I participate in the Kii Stake voting process?</summary>
-
-To participate in Kii Stake voting, log in to your account, navigate to the voting dashboard, and cast your vote within the specified time frame. You can also delegate your vote to trusted delegators.
-
-</details>
-
-<details>
-
 <summary>What security measures are in place?</summary>
 
-Kinetic partners with Shapeshifter, Hypernative, Chainalysis Screening Tools, GeoFencing and others for code security, audits, and real-time risk management and monitoring.
+Kinetic partners with Hypernative, Chainalysis Screening Tools, GeoFencing and others for code security, audits, and real-time risk management and monitoring.
 
 </details>
 
