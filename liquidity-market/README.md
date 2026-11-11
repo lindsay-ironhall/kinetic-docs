@@ -4,7 +4,7 @@ description: Supplying and Borrowing through Kinetic on the Flare network.
 
 # Liquidity Market
 
-Kinetic offers a robust platform for users to maximize the potential of their assets through lending and borrowing on the Flare and Soroban networks.
+Kinetic offers a robust platform for users to maximize the potential of their assets through lending and borrowing on the Flare network.
 
 For lenders, Kinetic presents an opportunity to lend digital assets to other users, earning interest in return. This allows users to generate passive yield from their idle assets while contributing to the liquidity and efficiency of the ecosystem. With no specific terms or minimum amounts required for lending, lenders have complete control over their lending strategies.
 
